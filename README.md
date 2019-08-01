@@ -1,7 +1,6 @@
 # Categorising-Scraped-Financial-NEWS
 
-Finding out the distinct categories for a particular source of news [Here](https://github.com/Sabertoothtech/Categorising-Scraped-Financial-NEWS/blob/master/Clustering/Prepare%20files%20according%20to%20categories.ipynb)
-
+#### Finding out the distinct categories for a particular source of news [Here](https://github.com/Sabertoothtech/Categorising-Scraped-Financial-NEWS/blob/master/Clustering/Prepare%20files%20according%20to%20categories.ipynb)
 #### Preparing different files for each category of the news [Here](https://github.com/Sabertoothtech/Categorising-Scraped-Financial-NEWS/blob/master/Clustering/Prepare%20files%20according%20to%20categories.ipynb)
 #### Merging a particular sector news into one file [Here](https://github.com/Sabertoothtech/Categorising-Scraped-Financial-NEWS/blob/master/Merge%20News/Merge%20a%20particular%20sector%20news/MergeSectorNews.ipynb)
 #### Merging the news into one file [Here](https://github.com/Sabertoothtech/Categorising-Scraped-Financial-NEWS/blob/master/Merge%20News/Merge%20news.ipynb)

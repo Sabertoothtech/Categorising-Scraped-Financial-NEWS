@@ -3,5 +3,5 @@
 #### Finding out the distinct categories for a particular source of news
 [CLick Here](https://github.com/Sabertoothtech/Categorising-Scraped-Financial-NEWS/blob/master/Clustering/Prepare%20files%20according%20to%20categories.ipynb)
 #### Merge the news into one file
-[Click Here]()
+[Click Here](https://github.com/Sabertoothtech/Categorising-Scraped-Financial-NEWS/blob/master/Merge%20News/Merge%20news.ipynb)
 #### 
